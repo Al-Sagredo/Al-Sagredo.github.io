@@ -1,0 +1,42 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+Geneva, Verdana, sans-serif;
+}
+.header{
+    height:5em;
+    padding:1.5em;
+    font-size:2em;
+    background-image:url("../img/flowers.jpg");
+    background-size:cover;
+    background-position: bottom 45% ;
+}
+h1{
+    font-weight:400;
+    margin-top:10px;
+}
+
+.productos{
+    width:80%;
+    margin:auto;
+}
+
+.productos td{
+    width:50%;
+    padding:2em;
+}
+
+.productos img{
+    width:80%;
+    border: solid 1px #ddd;
+
+}
+
+.footer{
+    height:3em;
+    line-height:3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}

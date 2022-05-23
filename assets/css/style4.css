@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto',sans-serif;
+}
+
+.logo {
+    width: 100px;
+}
+
+.boton {
+    border: 2spx solid #FFFFFF80;
+}
+
+.h5, p, li{
+    
+    color:#707070;
+}
